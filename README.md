@@ -1,6 +1,6 @@
 # A training pipeline template for benchmark test
 
-The repo is for the benchmark test on the server. It includes a minimal training pipeline under pytorch or tensorflow, some commonly used format for the training data, the scripts to load the data, the profiling metrics, as welll as a large public data set (fastMRI) to do the stress test if needed.
+The repo is for Dell team to the benchmark test on the server. It includes a minimal training pipeline under pytorch or tensorflow, some commonly used format for the training data, the scripts to load the data, the profiling metrics, as welll as a large public data set (fastMRI) to do the stress test if needed.
 
 The purpose are:
 - be familiar with the main components in the training pipeline
