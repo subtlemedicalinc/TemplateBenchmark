@@ -1,0 +1,10 @@
+img_row: 64
+img_col: 64
+img_slice: 64
+img_channel: 1
+layers: 32
+features: 128
+act_type: 'relu'
+init_seed: 15213
+batch_norm: False
+scale_factor: 0.1

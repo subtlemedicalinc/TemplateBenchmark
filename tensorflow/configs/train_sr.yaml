@@ -1,0 +1,14 @@
+train_path: '/home/subtle/Long/1217/data'
+valid_path: '/home/subtle/Long/1217/data'
+batch_size: 10
+epochs: 50
+pretrain: 'null'
+verbose: 1
+shuffle: True
+freeze_layers: 0
+nslice: 1
+queue_size: 20
+workers: 10
+multi_process: False
+shuffle: True
+ext: "h5"
